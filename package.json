@@ -1,0 +1,25 @@
+{
+  "name": "joke-api-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js",
+    "nodemon": "nodemon --watch ./src ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxk3990/joke-api-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxk3990/joke-api-hw/issues"
+  },
+  "homepage": "https://github.com/xxk3990/joke-api-hw#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
